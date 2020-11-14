@@ -1,1 +1,1 @@
---compiler=mingw-gcc
+build --compiler=mingw-gcc
